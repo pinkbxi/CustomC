@@ -70,7 +70,7 @@ namespace CustomC
                 }
             }
             /// <summary>
-            /// Does Not Close Console Until Any Button Is Pressed
+            /// Waits Until Button Is Pressed
             /// </summary>
             public static void Wait()
             {
