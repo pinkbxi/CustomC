@@ -4,7 +4,7 @@ An Attempt To Improve C# Console
 
 Everything is well documented in the code but I'll try to make this an documentation
 
-Every funcion does not need color input
+Every funcion does not require color input it is optinal
 
 # CustomC.Print(string Input, ConsoleColor."your selected color");
     it basically works like normal Console.WriteLine() just that you can add colors easier
